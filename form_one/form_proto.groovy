@@ -1,4 +1,4 @@
-job('parameterized-job') {
+job('Form-Prototyping/') {
     description('A job with parameters like text field, dropdown, and checkbox.')
 
     parameters {
