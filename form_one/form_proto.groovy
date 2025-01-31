@@ -1,4 +1,4 @@
-job('Form-Prototyping/') {
+job('Form-Prototyping/job-seed-one') {
     description('A job with parameters like text field, dropdown, and checkbox.')
 
     parameters {
